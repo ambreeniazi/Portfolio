@@ -37,7 +37,7 @@ const Portfolio = () => {
           </div>
         </article>
 
-        <article className='portfolio__item'>
+        {/* <article className='portfolio__item'>
           <div className='portfolio__item-image'>
             <img src={IMG3} alt='' />
           </div>
@@ -46,7 +46,7 @@ const Portfolio = () => {
             <a href='https://github.com' className='btn' target='_blank'>Github</a>
             <a href='https://bodydoctorgym.co.uk/' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
-        </article>
+        </article> */}
 
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
@@ -70,7 +70,7 @@ const Portfolio = () => {
           </div>
         </article>
 
-        <article className='portfolio__item'>
+        {/* <article className='portfolio__item'>
           <div className='portfolio__item-image'>
             <img src={IMG6} alt='' />
           </div>
@@ -79,7 +79,7 @@ const Portfolio = () => {
             <a href='https://github.com' className='btn' target='_blank'>Github</a>
             <a href='https://dribbble.com/Alien_pixels' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
-        </article>
+        </article> */}
         
       </div>
     </section>

@@ -7,7 +7,7 @@ import {IoLogoTwitter} from 'react-icons/io'
 const Footer = () => {
   return (
     <footer>
-      <a href='#' className='footer__logo'>Ahsan Yousaf</a>
+      <a href='#' className='footer__logo'>Ambreen Akhtar</a>
 
       <ul className='permalinks'>
         <li><a href='#'>Home</a></li>
@@ -20,13 +20,13 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href='https://www.facebook.com/ahsan.bhatti.10236' target='_blank'><FaFacebookF /></a>
-        <a href='https://www.instagram.com/ahsanbhatti1998/' target='_blank'><FiInstagram /></a>
-        <a href='https://twitter.com/ahsanbhatti624' target='_blank'><IoLogoTwitter /></a>
+        <a href='https://www.facebook.com/anabiya.10236' target='_blank'><FaFacebookF /></a>
+        <a href='https://www.instagram.com/ambreen_niazi/' target='_blank'><FiInstagram /></a>
+        <a href='https://twitter.com/ambreen.' target='_blank'><IoLogoTwitter /></a>
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; Ahsan Yousaf. All rights reserved.</small>
+        <small>&copy; Ambreen Akhtar. All rights reserved.</small>
       </div>
     </footer>
   )
